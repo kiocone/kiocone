@@ -2,7 +2,7 @@
 - 👀 I’m interested in development
 - 🌱 I’m currently learning Next.JS
 - 💞️ I’m looking to collaborate on JS, Node or React
-- 📫 How to reach me via: kiocone@gmail.com
+- 📫 How to reach me via: kiocone@gmail.com <a href='https://www.linkedin.com/in/roland-cruz-32014712/'>LinkedIn</a>
 
 <!---
 kiocone/kiocone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
