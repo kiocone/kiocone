@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @kiocone
 - 👀 I’m interested in development
-- 🌱 I’m currently learning Next.JS
-- 💞️ I’m looking to collaborate on JS, Node or React
-- 📫 How to reach me via: kiocone@gmail.com <a href='https://www.linkedin.com/in/roland-cruz-32014712/'>LinkedIn</a>
+- 🌱 I’m currently working with Nest.JS, Angualr.JS, Python
+- 💞️ I’m looking to collaborate on JS or Python
+- 📫 How to reach me via: kiocone@gmail.com or <a href='https://www.linkedin.com/in/roland-cruz-32014712/'>LinkedIn</a>
+- 📫 website <a href='https://www.kicoone.com'>kiocone</a>
 
 <!---
 kiocone/kiocone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
