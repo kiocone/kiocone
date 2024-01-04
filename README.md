@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kiocone
 - 👀 I’m interested in development
-- 🌱 I’m currently working with Nest.JS, Angualr.JS, Python
-- 💞️ I’m looking to collaborate on JS or Python
+- 🌱 I’m currently working with Node.JS and Python
 - 📫 How to reach me via: kiocone@gmail.com or <a href='https://www.linkedin.com/in/roland-cruz-32014712/'>LinkedIn</a>
 - 📫 website <a href='https://www.kicoone.com'>kiocone</a>
 
