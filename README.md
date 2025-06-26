@@ -49,7 +49,7 @@
 
 ## 🔗🌍 Connect
 
-[LinkedIn](https://www.linkedin.com/in/roland-cruz-32014712/) | [Sitio web](https://www.kicoone.com)
+[LinkedIn](https://www.linkedin.com/in/roland-cruz-32014712/) | Sitio Web: [kiocone.com](https://kiocone.com)
 
 ---
 
