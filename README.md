@@ -1,18 +1,25 @@
 # 👋👨‍💻 Soy Kiocone
 
-### 🧑‍💻💡🧱 Creador de 🧠+🛠️ y explorador de 🧿📜
+### 🧑‍💻💡🧱 Creador de 🧠+🛠️ y explorador de historias
 
 * 🧰 Full Stack Dev (🟨JS, 🟦TS, 🟢Node.js, 🔴Angular, ⚛️React)
-* 🐍 Explorando 🐍Python con 🧩Django, 🧪Flask y 🎮PyGame
-* 🗺️ Construyendo 🧳+🎉 apps de experiencias y sorteos
+* 🐍 Activo en Python con Django, Flask y 🎮PyGame
+* 🗺️ Construyendo apps de experiencias y sorteos
 * 🔌 Integrador de 🔁APIs, 🗃️DBs y 💬bots con ☁️Firestore & 🍃MongoDB
-* 📖 Activo en 🧱🕯️ proyectos masónicos & digitales
-* 🏋️‍♂️ Fan del 🥋 karate, 💪 gym y 🌊 Caribe vibes
+* 📖 Activo en construccion de proyectos masónicos & digitales
+* 🏋️‍♂️ Fan del 🥋 karate, 💪 gym y 🌊 Caribean vibes
 * 🐕 Mia, 🐾 mi pincher compañera de 👨‍💻
 
 ---
 
 ## 🚀🛠️ Stack & 🧰 Tools
+* NodeJs
+* TypeScript
+* Google Cloud Platform
+* Mongo
+* Git
+* Python
+* Flask
 
 ---
 
@@ -22,22 +29,25 @@
   ☁️ GCP + 🚀 TypeScrpt + 🗄️ MongoDB
 
 * 📱 Aplicaciones UI para importante cadena de farmacias 💊
-  📐 Angular 17, Material y Consumo de APIs
+  📐 Angular 17-20, Material y Consumo de APIs
 
 * 🤖 **Bot WhatsApp IA – SmartBee Pro**
   💬 Conversaciones ⚡ IA + ☁️Firestore + 🤝 ventas
 
 * 📚 **Biblioteca Digital Masónica**
-  📖 App web de consulta 📚🔍 en 🌎 Gran Logia Nacional
+  📖 App web de consulta de la biblioteca en 🌎 Serenisima Gran Logia Nacional de colombia con sede en Cartagena de Indias
 
 * 👗 **Softcouture**
   🧵 Sitio para moda con 🖥️HTML/CSS/JS
 
 * 🖥️ **adminpat**
-  ⚙️ Panel admin moderno con 🎨SCSS + 💻JS + Handlebars
+  ⚙️ WebApp para generar y administrar informes de patologia con 🎨SCSS + 💻JS + Handlebars
 
 * 🎰 **Sorteos RFID + 🎮PyGame**
   🎡 Ruleta + 🎞️ animaciones + 🗃️ stock dinámico
+
+* Orden de Estrellas de Oriente
+  Portal de identidad digital para la Orden de Estrellas de Oriente Capitulo Costa Caribe
 
 ---
 
@@ -51,6 +61,3 @@
 
 [LinkedIn](https://www.linkedin.com/in/roland-cruz-32014712/) | Sitio Web: [kiocone.com](https://kiocone.com)
 
----
-
-> *"💻 + 🧱 = 🏛️ del futuro"*
